@@ -1,0 +1,11 @@
+{
+  "name": "Search2Learn",
+  "symbol": "S2L",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Search2Learn is a cryptocurrency project supporting global education through blockchain.",
+  "website": "https://S2L.PRO",
+  "explorer": "https://bscscan.com/token/0xed842773464083ebfd207b25257304affe4049f1",
+  "status": "active",
+  "id": "0xed842773464083ebfd207b25257304affe4049f1"
+}
